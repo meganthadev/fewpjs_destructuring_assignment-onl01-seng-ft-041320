@@ -28,7 +28,7 @@ const k_muppet = {
 
 // Strings
 
-const []
+const [moo, neigh, baa, oink, cluck] = 
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
   
