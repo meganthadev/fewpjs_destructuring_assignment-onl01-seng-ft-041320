@@ -47,7 +47,7 @@ const [red, orange, yellow, green, blue, indigo, violet] = colors
 
 const [r, o, y, g, b, ,v] = colors
 
-const [indg] = colors
+const [ , , , , ,indg, ] = colors
 
 // 4. Use destructuring to assign appropriate variables using the color names.
 
