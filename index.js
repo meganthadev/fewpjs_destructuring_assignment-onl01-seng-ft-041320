@@ -60,7 +60,7 @@ const [ , , , , ,indg, ] = colors
 
 const {name, color, song, job, partner} = muppet
 
-const 
+const {song_2, song_4}
 
 
 // 7. Use destructuring to assign all appropriate variables using the keys as the variable names
